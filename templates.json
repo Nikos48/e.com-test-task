@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "registration", "user_phone": "phone", "user_email": "email", "registraion_date": "date", "biography": "text"}, "2": {"name": "login", "login": "text", "password": "text"}, "3": {"name": "call", "host": "phone", "destination": "phone"}, "4": {"name": "message", "message": "text", "host": "email", "destination": "email", "message_date": "date"}}}
